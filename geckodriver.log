@@ -1,0 +1,81 @@
+1629114122484	geckodriver	INFO	Listening on 127.0.0.1:41939
+1629114122495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles1yEiu"
+1629114123025	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles1yEiu/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+1629114124687	Marionette	INFO	Listening on port 37029
+1629114124735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: Error: No JWT present
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: Error: No JWT present
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: Error: No JWT present
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: Error: No JWT present
+1629114130685	Marionette	INFO	Stopped listening on port 37029
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629114238923	geckodriver	INFO	Listening on 127.0.0.1:52799
+1629114238933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKPwDWL"
+1629114239251	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKPwDWL/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+1629114240836	Marionette	INFO	Listening on port 40755
+1629114240863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629114248298	Marionette	INFO	Stopped listening on port 40755
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629114363182	geckodriver	INFO	Listening on 127.0.0.1:58343
+1629114363193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNSURgN"
+1629114363586	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNSURgN/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+1629114365113	Marionette	INFO	Listening on port 45655
+1629114365227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://yoink.streamelements.com/dashboard/notificationbar?env=production&uid=6313b01d6c&logLevel=error&version=latest&xcomponent=1, line 70: unreachable code after return statement
+JavaScript warning: https://yoink.streamelements.com/dashboard/notificationbar?env=production&uid=6313b01d6c&logLevel=error&version=latest&xcomponent=1, line 78: unreachable code after return statement
+JavaScript warning: https://yoink.streamelements.com/dashboard-graph?env=production&uid=5ed8d8c302&logLevel=error&version=latest&xcomponent=1, line 70: unreachable code after return statement
+JavaScript warning: https://yoink.streamelements.com/dashboard-graph?env=production&uid=5ed8d8c302&logLevel=error&version=latest&xcomponent=1, line 78: unreachable code after return statement
+JavaScript warning: https://yoink.streamelements.com/activity-feed?env=production&uid=83c80500a2&logLevel=error&version=latest&xcomponent=1, line 44: unreachable code after return statement
+JavaScript warning: https://yoink.streamelements.com/activity-feed?env=production&uid=83c80500a2&logLevel=error&version=latest&xcomponent=1, line 52: unreachable code after return statement
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: TypeError: t.getElementById is not a function
+JavaScript error: https://yoink.streamelements.com/yoink/static/activityFeed.f205a61b7203eae53c4b.bundle.js?e68f7be0d8c42a3def12, line 2: Error: OBS timed out after 10000 milliseconds
+1629114455503	Marionette	INFO	Stopped listening on port 45655
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629114466224	geckodriver	INFO	Listening on 127.0.0.1:43955
+1629114466234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDfWvAC"
+1629114466600	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDfWvAC/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+1629114468105	Marionette	INFO	Listening on port 35663
+1629114468164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629114473191	Marionette	INFO	Stopped listening on port 35663
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629114504322	geckodriver	INFO	Listening on 127.0.0.1:59161
+1629114504328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelBnstz"
+1629114504645	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelBnstz/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+1629114505887	Marionette	INFO	Listening on port 38905
+1629114505947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: Error: No JWT present
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: Error: No JWT present
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: Error: No JWT present
+JavaScript error: https://streamelements.com/bootstrap.module.8220baa25f6313e9d37d.js, line 1: Error: No JWT present
+1629114516946	Marionette	INFO	Stopped listening on port 38905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
